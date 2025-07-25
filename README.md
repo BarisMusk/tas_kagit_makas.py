@@ -1,6 +1,7 @@
 # tas_kagit_makas.py
-3.denemem
-'''import random
+#3.denemem
+'''python
+import random
 liste=["tas","kagit","makas"]
 liste2=["makas","kağıt","kagit","tas","taş"]
 while True:
