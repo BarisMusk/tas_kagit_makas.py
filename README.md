@@ -1,4 +1,4 @@
-'''python
+```python
 # tas_kagit_makas.py
 #3.denemem
 import random
@@ -32,7 +32,7 @@ while True:
         elif (a=="kağıt" or a=="kagit") and secim=="kagit":
             print(f"sizin seciminiz {a}, bilgisayarin secimi {secim},Berabere")
 
-'''
+```
 
 
 
